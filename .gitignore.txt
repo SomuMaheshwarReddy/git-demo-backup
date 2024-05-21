@@ -1,1 +1,2 @@
 This is gitignore file
+IN this the files which are inseted are ignored by git
